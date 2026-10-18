@@ -12,3 +12,7 @@ Features
 
 What I Learned
 Through this project, I strengthened my understanding of Python data types, specifically forcing input values from default strings into mathematical integers (`int`). I also gained practical experience navigating complex data structures by deploying a `for` loop to search through multidimensional key-value pairs (nested dictionaries) efficiently.
+
+Why did I create this? 
+I wanted to make a helpful tool to help me further understand chemistry more, while also building my computer science/programming skills. So I took a topic where I struggled in, took the time to research and study it, and
+then made a fun, easy to use tool to help me with chemistry homework. It has worked for me, so I hope it will work for you. Enjoy!!!

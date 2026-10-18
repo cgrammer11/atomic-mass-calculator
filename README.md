@@ -1,5 +1,3 @@
-# atomic-mass-calculator
-A Python written terminal application that calculates the atomic numbers, mass numbers, net charges, and identifies chemical elements based on subatomic inputs. 
 # Atomic Mass Calculator
 
 A responsive, terminal-based Python application designed to assist STEM students and educators in calculating core atomic properties. By inputting the quantity of fundamental subatomic particles, the program dynamically identifies the corresponding element from an embedded data matrix and computes structural values.
